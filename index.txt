@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Favour babalola
+Favour Babalola
 Web developer
 
 Show Contacts
